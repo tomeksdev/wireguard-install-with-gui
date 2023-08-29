@@ -34,7 +34,11 @@ Only what is left to follow instructions from installation.
 
 ### Screenshots
 
-
+![Alt](https://tomeksdev.com/postImages/wireguard/login-page.png "Login Page")
+![Alt](https://tomeksdev.com/postImages/wireguard/server-settings.png "Server Settings")
+![Alt](https://tomeksdev.com/postImages/wireguard/global-settings.png "Global Settings")
+![Alt](https://tomeksdev.com/postImages/wireguard/new-client.png "New Client")
+![Alt](https://tomeksdev.com/postImages/wireguard/created-client.png "Created Client")
 
 ## Vesrions
 

@@ -15,12 +15,6 @@ echo -e "${PURPLE} \/  \/ |_||_|    \___| \__, | \__,_| \__,_||_|    \__,_|"
 echo -e "${PURPLE}                         __/ |                           "
 echo -e "${PURPLE}                        |___/                            "
 echo ""
-#echo -e "${GREEN}                    _____  _   _  _____                   "
-#echo -e "${GREEN}                   |  __ \| | | ||_   _|                  "
-#echo -e "${GREEN}                   | |  \/| | | |  | |                    "
-#echo -e "${GREEN}                   | | __ | | | |  | |                    "
-#echo -e "${GREEN}                   | |_\ \| |_| | _| |_                   "
-#echo -e "${GREEN}                    \____/ \___/  \___/                   " 
 echo -e "${GREEN}          _____  _   _  _____ ${CYAN}  _____                     "
 echo -e "${GREEN}         |  __ \| | | ||_   _|${CYAN} /  ___|                    "
 echo -e "${GREEN}         | |  \/| | | |  | |  ${CYAN} \ '--.  _ __ __   __       "
@@ -79,7 +73,7 @@ fi
 
 # Add execute rights
 echo -e "Add execute rights to ${GREEN}start-wgui.sh${NC}..."
-chmod +x start-wgui.sh
+chmod +x /etc/wireguard/start-wgui.sh
 
 # Create Systemd service unit for wireguard-gui
 echo -e "Create ${GREEN}wgui-web.service${NC}..."
