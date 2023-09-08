@@ -34,11 +34,14 @@ Only what is left to follow instructions from installation.
 
 ### Screenshots
 
-![Alt](https://tomeksdev.com/postImages/wireguard/login-page.png "Login Page")
-![Alt](https://tomeksdev.com/postImages/wireguard/server-settings.png "Server Settings")
-![Alt](https://tomeksdev.com/postImages/wireguard/global-settings.png "Global Settings")
-![Alt](https://tomeksdev.com/postImages/wireguard/new-client.png "New Client")
-![Alt](https://tomeksdev.com/postImages/wireguard/created-client.png "Created Client")
+![Alt](https://vujca.github.io/postImages/wireguard/continue.png "Continue")
+![Alt](https://vujca.github.io/postImages/wireguard/IPv4-IPv6.png "IPv4/IPv6")
+![Alt](https://vujca.github.io/postImages/wireguard/default-port.png "Default Port")
+![Alt](https://vujca.github.io/postImages/wireguard/finished.png "Finish")
+![Alt](https://vujca.github.io/postImages/wireguard/server-settings.png "Server Settings")
+![Alt](https://vujca.github.io/postImages/wireguard/global-settings.png "Global Settings")
+![Alt](https://vujca.github.io/postImages/wireguard/new-client.png "New Client")
+![Alt](https://vujca.github.io/postImages/wireguard/created-client.png "Created Client")
 
 ## Vesrions
 
