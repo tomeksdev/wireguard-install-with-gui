@@ -142,7 +142,9 @@ EOF
 # Make wg0.conf file for wireguardinterface
 # Enable wireguard services and start them
 echo -e "Create ${GREEN}wg0.conf${NC}..."
-touch /etc/wireguard/wg0.conf
+
+# Old versions needed to create wg0.conf file
+# touch /etc/wireguard/wg0.conf
 echo -e "Enable and starting services..."
 systemctl enable wgui.{path,service} wg-quick@wg0.service wgui-web.service
 systemctl start wgui.{path,service}
