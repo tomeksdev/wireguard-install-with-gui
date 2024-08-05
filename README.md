@@ -4,7 +4,7 @@
 Purpose of this script is to easier install of wireguard server together with management gui for wireguard. GUI is taken from this repository and I was writen a little script to install on linux server machines.
 
 ## Instructions
-To download this script, click [THIS LINK](https://github.com/tomeksdev/wireguard-install-with-gui/releases/download/v1.0.0/WG-Server-Install.tar.gz) or follow the commands below.
+To download this script, click [THIS LINK](https://github.com/tomeksdev/wireguard-install-with-gui/releases/download/v1.0.1/WG-Server-Install.tar.gz) or follow the commands below.
 
 ### Command install
 To download it from the server, if you did not download it from the browser, you must enter the following command.
@@ -45,8 +45,14 @@ Only what is left to follow instructions from installation.
 
 ## Vesrions
 
-#### version v1.0.0
-[![GitHub release](https://img.shields.io/badge/release-v1.0.0-success)](https://github.com/tomeksdev/wireguard-install-with-gui/releases/tag/v1.0.0)
+#### New version v1.0.1
+[![GitHub Release](https://img.shields.io/github/v/release/tomeksdev/wireguard-install-with-gui?color=%2332CD32)](https://github.com/tomeksdev/wireguard-install-with-gui/releases/tag/v1.0.1)
+- fix on installation because of new versions of Wireguard GUI
+
+------------------------------------------------------
+
+#### Old version v1.0.0
+[![GitHub release](https://img.shields.io/badge/release-v1.0.0-darkred)](https://github.com/tomeksdev/wireguard-install-with-gui/releases/tag/v1.0.0)
 - install wireguard, curl and tar packages
 - prepare all config files, services and scripts for wireguard GUI
 - add executable rights
